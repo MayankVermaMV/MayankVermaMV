@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Mayank Verma</h1>
+<h3 align="center">🚀 Tech Enthusiast | 💻 Web Developer | 🤖 AI/ML Explorer</h3>
 
-<!--
-**MayankVermaMV/MayankVermaMV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔭 About Me
+- 🎓 Pursuing a **college degree** with a strong **passion for technology and innovation**.  
+- 👯 Looking to **collaborate** on **cutting-edge Web Development** & **AI/ML** projects.  
+- 🌱 Currently **leveling up** my skills in **Full-Stack Web Development (MERN Stack)**.  
+- 💡 Love turning **ideas into interactive digital experiences**.  
+- ⚡ Fun fact: I debug better with coffee ☕ and music 🎧.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,figma&theme=dark" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+<p align="center">
+  <a href="https://github.com/yourusername" target="https://github.com/MayankVermaMV">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚙️ GitHub Analytics
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### ✨ Quote that keeps me going
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
+⭐️ *Thanks for visiting my profile! Let’s build something awesome together.* 🚀
