@@ -21,13 +21,13 @@
 
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="https://github.com/yourusername" target="https://github.com/MayankVermaMV">
+  <a href="https://github.com/MayankVermaMV" target="-blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/mayank-verma-a0959027b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
+  <a href="mailto:mayankv189@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
